@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .ciudades {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .ciudades input {
+    width: 100px;
+  }
+  
+  .clima {
+    margin-top: 20px;
+  }
+  
+  .clima h2 {
+    text-align: center;
+  }
+  
+  .clima p {
+    margin-bottom: 10px;
+  }
+  
+  #temperatura {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  #condicion {
+    font-size: 16px;
+  }
+  
+  #humedad {
+    font-size: 14px;
+  }
+  
+  #velocidad_viento {
+    font-size: 14px;
+  }
+  
